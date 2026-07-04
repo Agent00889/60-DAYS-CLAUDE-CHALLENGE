@@ -1,7 +1,7 @@
 # 60-DAYS-CLAUDE-CHALLENGE
 From today i am starting a 60 days claude challenge with AB Talks. I will share all my progress of all the days with consistency here.
 
-#DAY 1
+# DAY 1
 Kicking off the challenge! Today, I explored my AI personality and got an amazing AI-generated portrait to represent it. Really excited to see what's next!
 
 My AI Personality Profile
