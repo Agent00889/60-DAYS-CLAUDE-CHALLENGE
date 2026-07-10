@@ -77,7 +77,7 @@ Present the output in a clean, visual, beginner-friendly format.
 
 ![alt text](image.png)
 
-![alt text](image-1.png)
+![alt text](image-2.png)
 
 My Claude Usage Strategy
 Personalized for a daily-use CS/cybersecurity student building an ethical hacking career
